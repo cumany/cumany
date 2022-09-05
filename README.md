@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://www.qindalin.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%27%27，Hi%20,%20I%27m%20Cuman%20%E5%85%AB%E9%9B%B6%E5%90%8E,%E7%94%9F%E4%BA%8E%E4%B8%AD%E5%8E%9F!%27&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%27%27，Hi%20,%20I%27m%20Cuman%20%E5%85%AB%E9%9B%B6%E5%90%8E,%E7%94%9F%E4%BA%8E%E4%B8%AD%E5%8E%9F!，%27&center=true&size=27">
   </a>
 </h1>
 <h3 align="center">A struggling full-stack pseudo-developer from China</h3>
