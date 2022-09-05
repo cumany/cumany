@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=cumany&show_icons=true&theme=radical)
 <a href="https://www.buymeacoffee.com/Cuman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=Cuman&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=cumany.github&left_color=green&right_color=red)
+                
