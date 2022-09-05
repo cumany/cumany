@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://www.qindalin.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines='Hi , I'm Cumany 八零后,生于北方!'&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%27%20Hi%20,%20I%27m%20Cuman%20%E5%85%AB%E9%9B%B6%E5%90%8E,%E7%94%9F%E4%BA%8E%E5%8C%97%E6%96%B9!%27&center=true&size=27">
   </a>
 </h1>
 <h3 align="center">A struggling developer from China</h3>
