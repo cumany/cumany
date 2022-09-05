@@ -1,25 +1,45 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cumany.github&left_color=green&right_color=red)
 
-<!--
-**cumany/cumany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://www.qindalin.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines='Hi , I'm Cumany 八零后,生于北方!'&center=true&size=27">
+  </a>
+</h1>
+<h3 align="center">A struggling developer from China</h3>
+<br>
+<!-- 徽章start -->
+<p align="center">
 
-Here are some ideas to get you started:
+  <!-- 访客徽章 -->
+ <img src="https://visitor-badge.glitch.me/badge?page_id=cumany.github&left_color=green&right_color=red">
+</p>
+<!-- 徽章end -->
+<br>
+<!-- Github奖杯🏆start -->
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cumany&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
+<!-- Github奖杯🏆end -->
+<br>
+<br>
+<!-- 统计卡片start -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cumany&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<!-- 统计卡片end -->
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=cumany&show_icons=true&theme=radical)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=cumany&theme=dracula&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cumany&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://www.buymeacoffee.com/Cuman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=Cuman&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
 
 
 
