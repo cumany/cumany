@@ -35,7 +35,9 @@
   </tr>
 </table>
 
-<div align="center"><p>Thank you very much for your support!</p><img width="300" src="https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209192228895.png" />
+## Thank you very much for your support!
+
+<div align="center"><img width="300" src="https://ghproxy.com/https://raw.githubusercontent.com/cumany/cumany/main/pic/202209192228895.png" />
 </div>
 
 <div align="center"><a href="https://www.buymeacoffee.com/Cuman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=&slug=Cuman&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
