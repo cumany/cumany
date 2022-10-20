@@ -26,7 +26,7 @@
 </div>
 <!-- 统计卡片end -->
 <br>
-
+![Snake Chart](https://raw.githubusercontent.com/cumany/cumany/output/github-contribution-grid-snake.svg)
 <table align="center">
   <tr>
     <td>
