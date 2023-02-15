@@ -38,6 +38,10 @@
     </td>
   </tr>
 </table>
+<details open="">
+  <summary><h2 dir="auto">📫</g-emoji> 如何联系我</h2></summary>
+ <img src="https://user-images.githubusercontent.com/42957010/219064370-f4fc7a80-168c-4e87-9976-3f517e7df3de.png" width='200px'>
+</details>
 
 ## Thank you very much for your support!
 
